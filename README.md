@@ -18,4 +18,4 @@ e tipagem não foram necessários processos de tratamento mais elaborados.
 Desta forma os dados ficam em um primeira área de stage, disponíveis para análises mais elaboradas.
 
 
-![Modelo](/Diagrama1.svg?raw=true "Modelo")
+![Modelo](/Diagrama1.png?raw=true "Modelo")
