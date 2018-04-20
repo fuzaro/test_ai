@@ -16,4 +16,6 @@ Como aparentemente os dados são oriundos de um sistema de informações transac
 e tipagem não foram necessários processos de tratamento mais elaborados.
 
 Desta forma os dados ficam em um primeira área de stage, disponíveis para análises mais elaboradas.
-Por exemplo
+
+
+![Modelo](/Diagrama1.svgg?raw=true "Modelo")
